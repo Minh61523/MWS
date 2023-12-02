@@ -1,0 +1,21 @@
+.navbar {
+    background-color: #9A251D;
+}
+
+.navbar-text,
+.navbar-brand,
+.nav-link {
+    color: white !important;
+}
+
+footer {
+    background-color: #9A251D;
+}
+
+.cards-wrapper {
+    column-gap: 15px;
+}
+
+.a {
+    text-decoration: none;
+}
